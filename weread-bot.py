@@ -2311,7 +2311,7 @@ class NotificationService:
             # 准备请求头
             headers = {
                 "Content-Type": "text/plain; charset=utf-8",
-                "Title": "微信读书自动阅读报告"
+                "Title": "WeRead Auto Reading Report"
             }
 
             # 添加认证token（如果配置了）
